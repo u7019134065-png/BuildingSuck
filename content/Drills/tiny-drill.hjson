@@ -1,0 +1,14 @@
+type: Drill
+name: "Tiny Drill"
+description: "A very small and slow drill for early-game resource extraction."
+size: 1
+health: 90
+tier: 1
+drillTime: 420
+hasPower: false
+liquidBoostIntensity: 1.2
+requirements: [
+  copper/12
+]
+category: production
+research: mechanical-drill
