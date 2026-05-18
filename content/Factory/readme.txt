@@ -1,0 +1,1 @@
+XDustry factory content folder.
