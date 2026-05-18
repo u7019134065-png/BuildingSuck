@@ -1,14 +1,10 @@
-type: Drill
-name: tiny-drill
-localizedName: Tiny Drill
-description: Small and slow starter drill.
+type: drill
+name: "tiny-drill"
+description: "Маленький и медленный бур для ранней игры."
 size: 1
-health: 160
 tier: 1
 drillTime: 420
-rotateSpeed: 2
-itemCapacity: 20
-hasPower: false
+itemCapacity: 15
 requirements: [
   copper/12
 ]
