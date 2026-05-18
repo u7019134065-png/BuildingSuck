@@ -1,12 +1,14 @@
 type: Drill
-name: "Tiny Drill"
-description: "A very small and slow drill for early-game resource extraction."
+name: tiny-drill
+localizedName: Tiny Drill
+description: Small and slow starter drill.
 size: 1
-health: 90
+health: 160
 tier: 1
 drillTime: 420
+rotateSpeed: 2
+itemCapacity: 20
 hasPower: false
-liquidBoostIntensity: 1.2
 requirements: [
   copper/12
 ]
