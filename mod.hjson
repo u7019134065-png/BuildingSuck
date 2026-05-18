@@ -1,0 +1,24 @@
+name: xdustry
+displayName: "[cyan]XDustry[]"
+author: "EEee1406"
+version: "0.1"
+minGameVersion: 146
+
+description: """
+[accent]XDustry[] is a Mindustry mod built around experimental content, automation, and industrial expansion.
+
+It is designed to add new ways of playing the game through custom blocks, production chains, liquids, power systems, and defensive tools. The mod focuses on giving players more freedom to build unusual factories, optimize resource flow, and test different strategies in both sandbox and survival gameplay.
+
+[lightgray]Planned ideas include:[white]
+- new production blocks
+- advanced conveyors and logistics
+- custom liquids and materials
+- defensive turrets and utility structures
+- power generation upgrades
+- experimental mechanics for factory design
+- content that expands progression and automation
+
+[lightgray]XDustry is in early development and may change heavily as new systems are added and balanced.[white]
+"""
+
+repo: "u7019134065-png/BuildingSuck"
