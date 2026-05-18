@@ -1,0 +1,1 @@
+Content folder for XDustry blocks, items, liquids, and units.
